@@ -20,9 +20,10 @@ One to two sentences describing the work.
 
 ### Manuscripts
 
-#### 1. Dev Jyoti Ghosh Arnab — Prepartum Prediction of Postpartum Hyperketonemia in Dairy Cows
+#### 1. Dev Jyoti Ghosh Arnab — Metabolic VS. Herd Records-based Prediction of hyperketonemia
+METABOLIC VS. HERD RECORDS-BASED PREDICTION OF HYPERKETONEMIA
 
-Machine-learning study from the DRIVE Lab on identifying cows at higher risk of postpartum hyperketonemia using only prepartum metabolic and management data. Compares models under small-sample and class-imbalance constraints, with a manuscript in preparation for the *Journal of Dairy Science*.
+Machine-learning study from the DRIVE Lab on identifying cows at higher risk of postpartum hyperketonemia using only prepartum metabolic and management data. Compares models under small-sample and class-imbalance constraints, with a manuscript awaiting for the *Journal of Dairy Science*.
 
 **Link:** [Analysis repository](https://github.com/Dev-Arnab/metabolic_ketosis_prediction)
 
@@ -36,7 +37,8 @@ Python package that turns Sentinel-1 SAR archives into analysis-ready pixel time
 
 ### Presentations
 
-#### 1. Dev Jyoti Ghosh Arnab — Mid-SURE: Prepartum Prediction of Hyperketonemia
+#### 1. Dev Jyoti Ghosh Arnab — Mid-SURE: Prediction of postpartum hyperketonemia in dairy cows from prepartum metabolic and management variables: a comparison of feature domains, machine-learning algorithms, and class-imbalance strategies
+
 
 Presented research on predicting postpartum hyperketonemia in dairy cows from prepartum information at MSU’s Mid-Michigan Symposium for Undergraduate Research Experiences (Mid-SURE). Focused on risk identification before calving and the modeling choices needed for small, imbalanced clinical datasets.
 
@@ -48,15 +50,15 @@ Presented research on predicting postpartum hyperketonemia in dairy cows from pr
 
 ### Manuscripts
 
-#### 1. Dev Jyoti Ghosh Arnab — Sub-Field Yield Zone Predictions Across Crop Rotations Using Multi-Temporal Sentinel-1 SAR
+#### 1. Dev Jyoti Ghosh Arnab — Evaluating the Complementary Value of Radar, Optical, and Learned Satellite Features for Sub-Field Yield Prediction and Stability Mapping Across Midwest Crop Rotations 
 
-Collaborative manuscript with Ryan Jayne on predicting sub-field yield zones across Michigan farms from multi-temporal Sentinel-1 Synthetic Aperture Radar. The work examines model performance and the limits of satellite-only predictors when key on-farm factors remain unobserved. Paper submitted.
+Collaborative manuscript with Ryan Jayne on predicting sub-field yield zones across Michigan farms from multi-temporal Sentinel-1 Synthetic Aperture Radar. The work examines model performance and the limits of satellite-only predictors when key on-farm factors remain unobserved. Paper awaiting submission.
 
 **Link:** [GitHub Repository](https://github.com/see-insight/yield_zone_prediction)
 
 ### Presentations
 
-#### 1. Dev Jyoti Ghosh Arnab — UURAF: Sub-Field Yield Zone Predictions Across Crop Rotations
+#### 1. Dev Jyoti Ghosh Arnab — UURAF: A Machine Learning Framework for Yield Zone Prediction: Evaluating Spatiotemporal Refinements in Michigan Agriculture
 
 Presented at MSU’s University Undergraduate Research and Arts Forum (UURAF) on yield-zone prediction using multi-temporal Sentinel-1 SAR across Michigan farms. Awarded 2nd place in the Environmental Science and Natural Resources presentation section.
 
