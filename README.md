@@ -10,27 +10,27 @@ Artifacts are grouped by semester. Under each semester, entries are organized by
 
 ### Manuscripts
 
-#### [Artifact Title]
+#### Prepartum Prediction of Postpartum Hyperketonemia in Dairy Cows
 
-One to two sentences describing the paper or manuscript: what problem it addresses, the approach, and the main outcome.
+Machine-learning study from the DRIVE Lab on identifying cows at higher risk of postpartum hyperketonemia using only prepartum metabolic and management data. Compares models under small-sample and class-imbalance constraints, with a manuscript in preparation for the *Journal of Dairy Science*.
 
-**Link:** [Manuscript / PDF](https://example.com/path-to-manuscript)
+**Link:** [Analysis repository](https://github.com/Dev-Arnab/metabolic_ketosis_prediction)
 
 ### Software
 
-#### [Artifact Title]
+#### sarpanel
 
-One to two sentences describing the published software or tool: what it does, who it serves, and how it fits into the VIP project.
+Python package that turns Sentinel-1 SAR archives into analysis-ready pixel time-series panels. Given an area of interest and date range, it searches ASF, processes scenes with ESA SNAP via pyroSAR, and writes per-pixel Parquet tables with backscatter, geometry, and provenance retained.
 
-**Link:** [GitHub Repository](https://github.com/org/repo)
+**Link:** [GitHub Repository](https://github.com/Dev-Arnab/sarpanel)
 
 ### Presentations
 
-#### [Artifact Title]
+#### Mid-SURE: Prepartum Prediction of Hyperketonemia
 
-One to two sentences describing the talk (e.g., MSU UURAF or Mid-SURE): venue, topic focus, and what the audience learned.
+Presented research on predicting postpartum hyperketonemia in dairy cows from prepartum information at MSU’s Mid-Michigan Symposium for Undergraduate Research Experiences (Mid-SURE). Focused on risk identification before calving and the modeling choices needed for small, imbalanced clinical datasets.
 
-**Link:** [Slides / Poster](https://example.com/path-to-presentation)
+**Link:** [Mid-SURE Presentations Catalog](https://app.mystory.msu.edu/midsure-presentations.htm)
 
 ---
 
@@ -38,24 +38,16 @@ One to two sentences describing the talk (e.g., MSU UURAF or Mid-SURE): venue, t
 
 ### Manuscripts
 
-#### [Artifact Title]
+#### Sub-Field Yield Zone Predictions Across Crop Rotations Using Multi-Temporal Sentinel-1 SAR
 
-One to two sentences describing the paper or manuscript: what problem it addresses, the approach, and the main outcome.
+Collaborative manuscript with Ryan Jayne on predicting sub-field yield zones across Michigan farms from multi-temporal Sentinel-1 Synthetic Aperture Radar. The work examines model performance and the limits of satellite-only predictors when key on-farm factors remain unobserved. Paper submitted.
 
-**Link:** [Manuscript / PDF](https://example.com/path-to-manuscript)
-
-### Software
-
-#### [Artifact Title]
-
-One to two sentences describing the published software or tool: what it does, who it serves, and how it fits into the VIP project.
-
-**Link:** [GitHub Repository](https://github.com/org/repo)
+**Link:** [Related repository](https://github.com/Dev-Arnab/farm_yield_prediction)
 
 ### Presentations
 
-#### [Artifact Title]
+#### UURAF: Sub-Field Yield Zone Predictions Across Crop Rotations
 
-One to two sentences describing the talk (e.g., MSU UURAF or Mid-SURE): venue, topic focus, and what the audience learned.
+Presented at MSU’s University Undergraduate Research and Arts Forum (UURAF) on yield-zone prediction using multi-temporal Sentinel-1 SAR across Michigan farms. Awarded 2nd place in the Environmental Science and Natural Resources presentation section.
 
-**Link:** [Slides / Poster](https://example.com/path-to-presentation)
+**Link:** [UURAF presentation write-up](https://www.linkedin.com/posts/dev-arnab_last-friday-i-had-the-opportunity-to-present-activity-7452438089559441408-dCJD)
