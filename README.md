@@ -29,7 +29,7 @@ One to two sentences describing the work.
 
 ---
 
-## Fall 2026
+<h1 align="center">Fall 2026</h1>
 
 ### Manuscripts
 
@@ -81,7 +81,7 @@ Presented research on predicting postpartum hyperketonemia in dairy cows from pr
 
 ---
 
-## Spring 2026
+<h1 align="center">Spring 2026</h1>
 
 ### Manuscripts
 
