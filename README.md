@@ -21,7 +21,6 @@ One to two sentences describing the work.
 ### Manuscripts
 
 #### 1. Dev Jyoti Ghosh Arnab — Metabolic VS. Herd Records-based Prediction of hyperketonemia
-METABOLIC VS. HERD RECORDS-BASED PREDICTION OF HYPERKETONEMIA
 
 Machine-learning study from the DRIVE Lab on identifying cows at higher risk of postpartum hyperketonemia using only prepartum metabolic and management data. Compares models under small-sample and class-imbalance constraints, with a manuscript awaiting for the *Journal of Dairy Science*.
 
